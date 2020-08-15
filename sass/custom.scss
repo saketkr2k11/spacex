@@ -1,0 +1,20 @@
+/*! Bootstrap 4 custom build by Themestr.app */
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 700px,
+  lg: 1024px,
+  xl: 1440px,
+);
+$container-max-widths: (
+  sm: 540px,
+  md: 660px,
+  lg: 975px,
+  xl: 1360px,
+);
+
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+@import '../node_modules/bootstrap/scss/bootstrap';

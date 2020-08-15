@@ -1,0 +1,16 @@
+.App {
+  background-color: lavender;
+}
+.footer {
+  text-align: center;
+  text-decoration: underline;
+}
+
+@media only screen and (min-width: 1440px) {
+  .App {
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1440px;
+  }
+}

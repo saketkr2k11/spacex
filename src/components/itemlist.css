@@ -1,0 +1,13 @@
+.listKey {
+  font-weight: bold;
+}
+.listTitle {
+  font-weight: bold;
+  color: blue;
+}
+.listValue {
+  color: blue;
+}
+.listItem {
+  margin: 22px;
+}
