@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/spacex/static/css/main.0985329c.chunk.css",
+    "main.js": "/github.io/spacex/static/js/main.598821a0.chunk.js",
+    "main.js.map": "/github.io/spacex/static/js/main.598821a0.chunk.js.map",
+    "runtime-main.js": "/github.io/spacex/static/js/runtime-main.54fa8c11.js",
+    "runtime-main.js.map": "/github.io/spacex/static/js/runtime-main.54fa8c11.js.map",
+    "static/js/2.f3706ef9.chunk.js": "/github.io/spacex/static/js/2.f3706ef9.chunk.js",
+    "static/js/2.f3706ef9.chunk.js.map": "/github.io/spacex/static/js/2.f3706ef9.chunk.js.map",
+    "index.html": "/github.io/spacex/index.html",
+    "precache-manifest.74c3dff29b806e09b89b360036492104.js": "/github.io/spacex/precache-manifest.74c3dff29b806e09b89b360036492104.js",
+    "service-worker.js": "/github.io/spacex/service-worker.js",
+    "static/css/main.0985329c.chunk.css.map": "/github.io/spacex/static/css/main.0985329c.chunk.css.map",
+    "static/js/2.f3706ef9.chunk.js.LICENSE.txt": "/github.io/spacex/static/js/2.f3706ef9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54fa8c11.js",
+    "static/js/2.f3706ef9.chunk.js",
+    "static/css/main.0985329c.chunk.css",
+    "static/js/main.598821a0.chunk.js"
+  ]
+}
